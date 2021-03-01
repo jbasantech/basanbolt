@@ -1,6 +1,12 @@
-## Instalación
+## Propósito
 
-Construyendo un nodo completo de Bitcoin/Lightning con la computadora de bajo costo [Raspberry Pi](https://www.raspberrypi.org/).
+Configurar un nodo completo de Bitcoin/Lightning con la computadora de bajo costo [Raspberry Pi](https://www.raspberrypi.org/).
+
+### Que:
+- Sea un nodo completo de bitcoin completamente validado y no requiera intervención de un tercero.
+- Funcione de manera confiable 24/7.
+- Sea parte y apoye la descentralización de la Lightning Network al enrutar pagos.
+- Se pueda usar para enviar y recibir pagos personales usando la interfaz de línea de comando.
 
 
 1. [Preparación](preparacion.md) 
