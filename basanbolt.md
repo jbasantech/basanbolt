@@ -8,14 +8,14 @@
 
 ### Acceso a través de una shell segura
 
-Para conectarte remotamente averigua la IP de la Raspi introduciendo el siguiente comando en la Terminal de Linux:
+Para conectarte remotamente averigua la IP de la Raspi introduciendo el siguiente comando en la Terminal de Linux local:
 ```
 arp -na | grep -i "dc:a6:32"
 ```
-La Ip será algo parecido a esto:
+La IP será algo parecido a esto:
 - 192.168.X.XX
 
 En la Terminal de Linux:
 - ssh ubuntu@192.168.X.XX
 
-Escribe **Sí** para confirmar
+Escribe **Sí** para confirmar la conexión
