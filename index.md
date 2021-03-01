@@ -1,9 +1,15 @@
 ## Instalación
 
-You can use the [editor on GitHub](https://github.com/jbasantech/basanbolt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Construyendo un nodo completo de Bitcoin/Lightning con una computadora de bajo costo [Raspberry Pi](https://www.raspberrypi.org/). Tu propio banco con software de código abierto y hardware barato.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+```contenido
+1. Preparación
+2. Raspberry Pi
+3. Seguridad
+4. Privacidad
+5. Bitcoin
+6. Lightning
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
