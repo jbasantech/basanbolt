@@ -18,4 +18,4 @@ La IP será algo parecido a esto:
 En la Terminal de Linux:
 - ssh ubuntu@192.168.X.XX
 
-Escribe **Sí** para confirmar la conexión
+Escribe **Sí** para confirmar la conexión.
