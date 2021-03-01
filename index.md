@@ -3,7 +3,7 @@
 Construyendo un nodo completo de Bitcoin/Lightning con la computadora de bajo costo [Raspberry Pi](https://www.raspberrypi.org/).
 
 ```contenido
-1. [a relative link](preparacion) 
+1. [Link](preparacion.md) 
 2. Raspberry Pi
 3. Seguridad
 4. Privacidad
