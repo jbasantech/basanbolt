@@ -6,3 +6,5 @@
 - Disco duro externo de 1 TB o más
 
 ![Image](imagenes/raspberrypi.png)
+
+[Inicio](index.md)
