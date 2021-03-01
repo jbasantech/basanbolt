@@ -1,4 +1,9 @@
 theme: jekyll-theme-architect
 github:
-  basanbolt_url: https://jbasantech.github.io/basanbolt/
+  inicio_url: https://jbasantech.github.io/basanbolt/
   preparacion_url: https://jbasantech.github.io/basanbolt/preparacion.html
+  raspberrypi_url: https://jbasantech.github.io/basanbolt/raspberrypi.html
+  seguridad_url: https://jbasantech.github.io/basanbolt/seguridad.html
+  privacidad_url: https://jbasantech.github.io/basanbolt/privacidad.html
+  bitcoin_url: https://jbasantech.github.io/basanbolt/bitcoin.html
+  lightning_url: https://jbasantech.github.io/basanbolt/lightining.html
