@@ -6,7 +6,7 @@
 
 ## Conectar a la raspberrypi
 
-# Acceso a través de una shell segura
+### Acceso a través de una shell segura
 
 Para conectarte remotamente averigua la IP de la Raspi introduciendo el siguiente comando en la Terminal de Linux:
 ```
