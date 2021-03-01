@@ -4,11 +4,11 @@ Construyendo un nodo completo de Bitcoin/Lightning con la computadora de bajo co
 
 
 1. [Preparación](preparacion.md) 
-2. Raspberry Pi
-3. Seguridad
-4. Privacidad
-5. Bitcoin
-6. Lightning
+2. [Raspberry Pi](basanbolt.md)
+3. [Seguridad](seguridad.md)
+4. [Privacidad](privacidad.md)
+5. [Bitcoin](bitcoin.md)
+6. [Lightning](lightning.md)
 7. 
 ### Markdown
 
