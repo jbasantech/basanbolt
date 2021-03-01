@@ -9,7 +9,7 @@ Construyendo un nodo completo de Bitcoin/Lightning con la computadora de bajo co
 4. [Privacidad](privacidad.md)
 5. [Bitcoin](bitcoin.md)
 6. [Lightning](lightning.md)
-7. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
