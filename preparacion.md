@@ -1,1 +1,1 @@
-## Partes requeridad
+## Partes requeridas
