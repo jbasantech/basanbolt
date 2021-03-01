@@ -1,9 +1,9 @@
 ## Instalación
 
-Construyendo un nodo completo de Bitcoin/Lightning con una computadora de bajo costo [Raspberry Pi](https://www.raspberrypi.org/). Tu propio banco con software de código abierto y hardware barato.
+Construyendo un nodo completo de Bitcoin/Lightning con la computadora de bajo costo [Raspberry Pi](https://www.raspberrypi.org/).
 
 ```contenido
-1. Preparación
+1. [a relative link](preparacion) 
 2. Raspberry Pi
 3. Seguridad
 4. Privacidad
