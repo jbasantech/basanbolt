@@ -1,6 +1,5 @@
-## Partes requeridas
+## Hardware requerido
 
-### Hardware requerido
 - Raspberry Pi 4 con 8 GB de RAM
 - Tarjeta microSD de 32 GB o más con adaptador
 - Adaptador de alimentación de 5V/3A y cable USB-C
