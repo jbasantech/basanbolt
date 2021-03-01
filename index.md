@@ -10,6 +10,11 @@ Construyendo un nodo completo de Bitcoin/Lightning con la computadora de bajo co
 5. [Bitcoin](bitcoin.md)
 6. [Lightning](lightning.md)
 
+![Image](imagenes/raspicase.jpg)
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
