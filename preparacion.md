@@ -6,3 +6,4 @@
 - Adaptador de alimentación de 5V/3A y cable USB-C
 - Disco duro externo de 1 TB o más
 
+![Image](imagenes/raspberrypi.png)
