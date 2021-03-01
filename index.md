@@ -2,14 +2,14 @@
 
 Construyendo un nodo completo de Bitcoin/Lightning con la computadora de bajo costo [Raspberry Pi](https://www.raspberrypi.org/).
 
-```contenido
-1. [Link](preparacion.md) 
+
+1. [Preparación](preparacion.md) 
 2. Raspberry Pi
 3. Seguridad
 4. Privacidad
 5. Bitcoin
 6. Lightning
-```
+7. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
