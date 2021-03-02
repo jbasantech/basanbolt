@@ -1,9 +1,13 @@
+title: Basanbolt
+description: Nodo completo de Bitcoin/Lightning.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-architect
 github:
   inicio_url: https://jbasantech.github.io/basanbolt/
-  preparacion_url: https://jbasantech.github.io/basanbolt/preparacion.html
-  raspberrypi_url: https://jbasantech.github.io/basanbolt/raspberrypi.html
-  seguridad_url: https://jbasantech.github.io/basanbolt/seguridad.html
-  privacidad_url: https://jbasantech.github.io/basanbolt/privacidad.html
-  bitcoin_url: https://jbasantech.github.io/basanbolt/bitcoin.html
-  lightning_url: https://jbasantech.github.io/basanbolt/lightning.html
+  preparacion_url: https://jbasantech.github.io/basanbolt/html/preparacion.html
+  raspberrypi_url: https://jbasantech.github.io/basanbolt/html/raspberrypi.html
+  seguridad_url: https://jbasantech.github.io/basanbolt/html/seguridad.html
+  privacidad_url: https://jbasantech.github.io/basanbolt/html/privacidad.html
+  bitcoin_url: https://jbasantech.github.io/basanbolt/html/bitcoin.html
+  lightning_url: https://jbasantech.github.io/basanbolt/html/lightning.html
